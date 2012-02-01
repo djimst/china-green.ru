@@ -1,0 +1,23 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: china
+  pool: 5
+  username: pgsql
+  password: 
+
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: china
+  pool: 5
+  username: pgsql
+  password: 
+
+production:
+  adapter: postgresql
+  encoding: unicode
+  database: china
+  pool: 5
+  username: pgsql
+  password: 
